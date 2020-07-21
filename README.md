@@ -1,5 +1,5 @@
 # A Basic Pong Game
-A simple and basic Pong game I made in python to learn the basics of gaming machanics, using the turtle module.
+A simple and basic Pong game I made in python to learn the basics of gaming mechanics, using the turtle module.
 
 # Gameplay
 There is no menu game starts from launch with the scoreboard starting at 0.
