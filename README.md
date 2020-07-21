@@ -4,7 +4,7 @@ A simple and basic Pong game I made in python to learn the basics of gaming mech
 # Gameplay
 There is no menu game starts from launch with the scoreboard starting at 0.
 Earn points by having the ball reach the other side of the screen without being hit.
-The score does not have a cap so gameplay lasts until satified and by closing the window.
+The score does not have a cap so gameplay lasts until satisfied and by closing the window.
 
 # Controls
 Player 1 : "w" for up "s" for down
