@@ -8,6 +8,7 @@ The score does not have a cap so gameplay lasts until satisfied and by closing t
 
 # Controls
 Player 1 : "w" for up "s" for down
+
 Player 2 : "Up" arrow key for up "Down" arrow key for down
 
 # Sound
